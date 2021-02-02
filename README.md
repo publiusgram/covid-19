@@ -6,6 +6,3 @@ fetch daily data (by state) from source
   - UI benefit from Daily Treasury Statement
 
 with state data available, plot US map, inspired by JHU
-
-If you publish results based on these programs, please cite as:
-"Based on python program kindly provided by publiusgram at Github."
